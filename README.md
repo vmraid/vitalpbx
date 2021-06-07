@@ -1,0 +1,7 @@
+## VitalPBX
+
+Something
+
+#### License
+
+MIT

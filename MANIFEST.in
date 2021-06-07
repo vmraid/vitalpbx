@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include vitalpbx *.css
+recursive-include vitalpbx *.csv
+recursive-include vitalpbx *.html
+recursive-include vitalpbx *.ico
+recursive-include vitalpbx *.js
+recursive-include vitalpbx *.json
+recursive-include vitalpbx *.md
+recursive-include vitalpbx *.png
+recursive-include vitalpbx *.py
+recursive-include vitalpbx *.svg
+recursive-include vitalpbx *.txt
+recursive-exclude vitalpbx *.pyc
